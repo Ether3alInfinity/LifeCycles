@@ -1,0 +1,9 @@
+neverland.jpg
+runMode: 0
+maxCount: 4000
+concentration: 1
+crowdArea: 2
+stepSize: 3
+blurX: 3
+blurY: 3
+threshold: 150
